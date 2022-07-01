@@ -1,0 +1,8 @@
+{
+    "name": "tet",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true
+    }
+}
